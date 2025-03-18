@@ -1,0 +1,2 @@
+// app.js
+console.log('مرحبًا، Node.js مع GitHub!');
